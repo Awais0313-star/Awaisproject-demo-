@@ -1,4 +1,4 @@
 # Awaisproject-demo-
-<p><u>This is my first git repository.</u></p>
+<i>This is my first git repository.<i>
 <br>
-<p><u>Author - Muhammad Awais</u></p>
+Author - Muhammad Awais
